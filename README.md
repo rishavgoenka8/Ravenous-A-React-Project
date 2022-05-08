@@ -1,3 +1,5 @@
+# A project making api requests with Yelp API and showing the list of restaurants available.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
